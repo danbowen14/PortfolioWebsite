@@ -1,0 +1,36 @@
+body {
+	font-family: Raleway;
+	font-size: 10px;
+	background-image: url(AdobeStock_100387756.jpeg);
+	background-size: cover;
+	text-align: center;
+}
+
+h1 {
+	font-size: 5.0em;
+	margin: 1%;
+	color: White;
+}
+
+h3 {
+	font-size: 1.5em;
+	margin: 1%;
+	color: white;
+}
+
+p {
+	font-size: 1.4em;
+	margin: 2% 1%;
+	color: white;
+}
+
+button {
+	margin: .01% 1%;
+	font-family: Raleway;
+	color: white;
+	background-color: transparent;
+	border: white solid;
+	border-radius: 4px;
+	padding: 10px;
+}
+

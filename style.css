@@ -1,36 +1,7 @@
 body {
-	font-family: Raleway;
-	font-size: 10px;
-	text-align: center;
-	background: linear-gradient(rgba(255,110,0, .4), rgba(30,0,255,.4)) no-repeat, url(AdobeStock_100387756.jpeg);
-	background-attachment: fixed;
+	background: url(BackgroundImg3.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	background-size: cover;
-}
-
-h1 {
-	font-size: 5.0em;
-	margin: 1%;
-	color: White;
-}
-
-h3 {
-	font-size: 1.5em;
-	margin: 1%;
-	color: white;
-}
-
-p {
-	font-size: 1.4em;
-	margin: 2% 1%;
-	color: white;
-}
-
-button {
-	margin: .01% 1%;
-	font-family: Raleway;
-	color: white;
-	background-color: transparent;
-	border: white solid;
-	border-radius: 4px;
-	padding: 10px;
 }
